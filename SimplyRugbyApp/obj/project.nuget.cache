@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tEXvlRGUxxc2SH/ttggtJclcRQwrUj5MlQPogTSBCvAoVwRpBO+JO0ieigpeBkS2PsbSAjGOGF8HUlkr8s33Cg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\acer\\Desktop\\Application\\SimplyRugbyApp\\SimplyRugbyApp\\SimplyRugbyApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\acer\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.115.5\\stub.system.data.sqlite.core.netstandard.1.0.115.5.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\system.data.sqlite.core\\1.0.115.5\\system.data.sqlite.core.1.0.115.5.nupkg.sha512"
+  ],
+  "logs": []
+}

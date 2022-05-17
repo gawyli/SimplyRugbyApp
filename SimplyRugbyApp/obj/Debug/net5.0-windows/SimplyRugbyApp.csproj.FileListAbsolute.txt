@@ -1,0 +1,168 @@
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\SimplyRugbyApp.exe
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\SimplyRugbyApp.deps.json
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\SimplyRugbyApp.runtimeconfig.json
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\SimplyRugbyApp.runtimeconfig.dev.json
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\SimplyRugbyApp.dll
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\ref\SimplyRugbyApp.dll
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\SimplyRugbyApp.pdb
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SimplyRugbyApp.csproj.AssemblyReference.cache
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\LoginWindow.g.cs
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SimplyRugbyApp_MarkupCompile.cache
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SimplyRugbyApp_MarkupCompile.lref
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\LoginWindow.baml
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SimplyRugbyApp.g.resources
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SimplyRugbyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SimplyRugbyApp.AssemblyInfoInputs.cache
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SimplyRugbyApp.AssemblyInfo.cs
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SimplyRugbyApp.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SimplyRugbyApp.dll
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\ref\SimplyRugbyApp.dll
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SimplyRugbyApp.pdb
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SimplyRugbyApp.genruntimeconfig.cache
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\ListOfPlayersWindow.g.cs
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\ListOfPlayersWindow.baml
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\SimplyRugbyDB.db
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\Dapper.dll
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\PlayerWindow.g.cs
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SimplyRugbyApp_Content.g.cs
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\PlayerWindow.baml
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SimplyRugbyApp.csproj.CopyComplete
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\img\logo.png
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SkillsProfile.g.cs
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SkillsProfile.baml
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\ListWindow.g.cs
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\ListWindow.baml
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\FluentValidation.dll
+C:\Users\acer\Desktop\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\img\logo.png
+C:\Users\acer\Desktop\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\SimplyRugbyDB.db
+C:\Users\acer\Desktop\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\SimplyRugbyApp.exe
+C:\Users\acer\Desktop\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\SimplyRugbyApp.deps.json
+C:\Users\acer\Desktop\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\SimplyRugbyApp.runtimeconfig.json
+C:\Users\acer\Desktop\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\SimplyRugbyApp.runtimeconfig.dev.json
+C:\Users\acer\Desktop\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\SimplyRugbyApp.dll
+C:\Users\acer\Desktop\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\ref\SimplyRugbyApp.dll
+C:\Users\acer\Desktop\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\SimplyRugbyApp.pdb
+C:\Users\acer\Desktop\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\Dapper.dll
+C:\Users\acer\Desktop\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\FluentValidation.dll
+C:\Users\acer\Desktop\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+C:\Users\acer\Desktop\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\acer\Desktop\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\acer\Desktop\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\acer\Desktop\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\acer\Desktop\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SimplyRugbyApp.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\ListOfPlayersWindow.g.cs
+C:\Users\acer\Desktop\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\ListWindow.g.cs
+C:\Users\acer\Desktop\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\LoginWindow.g.cs
+C:\Users\acer\Desktop\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\PlayerWindow.g.cs
+C:\Users\acer\Desktop\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SkillsProfile.g.cs
+C:\Users\acer\Desktop\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\acer\Desktop\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SimplyRugbyApp_Content.g.cs
+C:\Users\acer\Desktop\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\acer\Desktop\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SimplyRugbyApp_MarkupCompile.cache
+C:\Users\acer\Desktop\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SimplyRugbyApp_MarkupCompile.lref
+C:\Users\acer\Desktop\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\ListOfPlayersWindow.baml
+C:\Users\acer\Desktop\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\ListWindow.baml
+C:\Users\acer\Desktop\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\LoginWindow.baml
+C:\Users\acer\Desktop\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\PlayerWindow.baml
+C:\Users\acer\Desktop\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SkillsProfile.baml
+C:\Users\acer\Desktop\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SimplyRugbyApp.g.resources
+C:\Users\acer\Desktop\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SimplyRugbyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SimplyRugbyApp.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SimplyRugbyApp.AssemblyInfo.cs
+C:\Users\acer\Desktop\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SimplyRugbyApp.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SimplyRugbyApp.csproj.CopyComplete
+C:\Users\acer\Desktop\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SimplyRugbyApp.dll
+C:\Users\acer\Desktop\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\ref\SimplyRugbyApp.dll
+C:\Users\acer\Desktop\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SimplyRugbyApp.pdb
+C:\Users\acer\Desktop\SimplyRugbyApp v.2\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SimplyRugbyApp.genruntimeconfig.cache
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit v.2\Application\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\img\logo.png
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit v.2\Application\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\SimplyRugbyDB.db
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit v.2\Application\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\SimplyRugbyApp.exe
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit v.2\Application\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\SimplyRugbyApp.deps.json
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit v.2\Application\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\SimplyRugbyApp.runtimeconfig.json
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit v.2\Application\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\SimplyRugbyApp.runtimeconfig.dev.json
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit v.2\Application\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\SimplyRugbyApp.dll
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit v.2\Application\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\ref\SimplyRugbyApp.dll
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit v.2\Application\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\SimplyRugbyApp.pdb
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit v.2\Application\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\Dapper.dll
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit v.2\Application\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\FluentValidation.dll
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit v.2\Application\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit v.2\Application\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit v.2\Application\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit v.2\Application\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit v.2\Application\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit v.2\Application\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SimplyRugbyApp.csproj.AssemblyReference.cache
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit v.2\Application\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\ListOfPlayersWindow.g.cs
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit v.2\Application\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\ListWindow.g.cs
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit v.2\Application\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\LoginWindow.g.cs
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit v.2\Application\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\PlayerWindow.g.cs
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit v.2\Application\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SkillsProfile.g.cs
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit v.2\Application\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit v.2\Application\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SimplyRugbyApp_Content.g.cs
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit v.2\Application\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit v.2\Application\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SimplyRugbyApp_MarkupCompile.cache
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit v.2\Application\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SimplyRugbyApp_MarkupCompile.lref
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit v.2\Application\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\ListOfPlayersWindow.baml
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit v.2\Application\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\ListWindow.baml
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit v.2\Application\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\LoginWindow.baml
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit v.2\Application\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\PlayerWindow.baml
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit v.2\Application\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SkillsProfile.baml
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit v.2\Application\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SimplyRugbyApp.g.resources
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit v.2\Application\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SimplyRugbyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit v.2\Application\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SimplyRugbyApp.AssemblyInfoInputs.cache
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit v.2\Application\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SimplyRugbyApp.AssemblyInfo.cs
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit v.2\Application\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SimplyRugbyApp.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit v.2\Application\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SimplyRugbyApp.csproj.CopyComplete
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit v.2\Application\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SimplyRugbyApp.dll
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit v.2\Application\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\ref\SimplyRugbyApp.dll
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit v.2\Application\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SimplyRugbyApp.pdb
+C:\Users\acer\OneDrive - West Lothian College\HND\Graded Unit v.2\Application\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SimplyRugbyApp.genruntimeconfig.cache
+C:\Users\acer\Desktop\Application\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\img\logo.png
+C:\Users\acer\Desktop\Application\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\SimplyRugbyDB.db
+C:\Users\acer\Desktop\Application\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\SimplyRugbyApp.exe
+C:\Users\acer\Desktop\Application\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\SimplyRugbyApp.deps.json
+C:\Users\acer\Desktop\Application\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\SimplyRugbyApp.runtimeconfig.json
+C:\Users\acer\Desktop\Application\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\SimplyRugbyApp.runtimeconfig.dev.json
+C:\Users\acer\Desktop\Application\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\SimplyRugbyApp.dll
+C:\Users\acer\Desktop\Application\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\ref\SimplyRugbyApp.dll
+C:\Users\acer\Desktop\Application\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\SimplyRugbyApp.pdb
+C:\Users\acer\Desktop\Application\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\Dapper.dll
+C:\Users\acer\Desktop\Application\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\FluentValidation.dll
+C:\Users\acer\Desktop\Application\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+C:\Users\acer\Desktop\Application\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\acer\Desktop\Application\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\acer\Desktop\Application\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\acer\Desktop\Application\SimplyRugbyApp\SimplyRugbyApp\bin\Debug\net5.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\acer\Desktop\Application\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SimplyRugbyApp.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\Application\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\ListOfPlayersWindow.g.cs
+C:\Users\acer\Desktop\Application\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\ListWindow.g.cs
+C:\Users\acer\Desktop\Application\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\LoginWindow.g.cs
+C:\Users\acer\Desktop\Application\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\PlayerWindow.g.cs
+C:\Users\acer\Desktop\Application\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SkillsProfile.g.cs
+C:\Users\acer\Desktop\Application\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\acer\Desktop\Application\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SimplyRugbyApp_Content.g.cs
+C:\Users\acer\Desktop\Application\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\acer\Desktop\Application\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SimplyRugbyApp_MarkupCompile.cache
+C:\Users\acer\Desktop\Application\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SimplyRugbyApp_MarkupCompile.lref
+C:\Users\acer\Desktop\Application\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\ListOfPlayersWindow.baml
+C:\Users\acer\Desktop\Application\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\ListWindow.baml
+C:\Users\acer\Desktop\Application\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\LoginWindow.baml
+C:\Users\acer\Desktop\Application\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\PlayerWindow.baml
+C:\Users\acer\Desktop\Application\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SkillsProfile.baml
+C:\Users\acer\Desktop\Application\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SimplyRugbyApp.g.resources
+C:\Users\acer\Desktop\Application\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SimplyRugbyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\Application\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SimplyRugbyApp.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\Application\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SimplyRugbyApp.AssemblyInfo.cs
+C:\Users\acer\Desktop\Application\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SimplyRugbyApp.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Application\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SimplyRugbyApp.csproj.CopyComplete
+C:\Users\acer\Desktop\Application\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SimplyRugbyApp.dll
+C:\Users\acer\Desktop\Application\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\ref\SimplyRugbyApp.dll
+C:\Users\acer\Desktop\Application\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SimplyRugbyApp.pdb
+C:\Users\acer\Desktop\Application\SimplyRugbyApp\SimplyRugbyApp\obj\Debug\net5.0-windows\SimplyRugbyApp.genruntimeconfig.cache

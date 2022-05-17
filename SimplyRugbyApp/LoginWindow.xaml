@@ -1,0 +1,22 @@
+﻿<Window x:Class="SimplyRugbyApp.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SimplyRugbyApp"
+        mc:Ignorable="d"
+        Title="Simply Rugby - Login" Height="400" Width="400" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="img/logo.png"/>
+        </Grid.Background>
+        <Label Content="Login" HorizontalAlignment="Center" Margin="0,72,0,0" VerticalAlignment="Top" Height="66" Width="168" FontSize="48" FontWeight="Bold" FontFamily="Arial Black" Foreground="Black" Background="White"/>
+        <TextBlock HorizontalAlignment="Left" Margin="41,176,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="35" Width="106" FontSize="20" FontWeight="Bold" Background="White"><Run Language="en-gb" Text="Username:"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="41,235,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="35" Width="106" FontSize="20" FontWeight="Bold" Background="White"><Run Language="en-gb" Text="Password:"/></TextBlock>
+        <TextBox x:Name="Tb_username" HorizontalAlignment="Left" Height="35" Margin="152,176,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="185" FontSize="20"/>
+        <PasswordBox x:Name="Pb_password" HorizontalAlignment="Left" Margin="152,234,0,0" VerticalAlignment="Top" Width="185" Height="36"/>
+        <Button x:Name="Btn_exit" Content="Exit" HorizontalAlignment="Left" Margin="52,303,0,0" VerticalAlignment="Top" Height="45" Width="95" FontSize="20" FontWeight="Bold" Click="Btn_exit_Click"/>
+        <Button x:Name="Btn_login" Content="Login" HorizontalAlignment="Left" Margin="230,303,0,0" VerticalAlignment="Top" Height="45" Width="95" FontWeight="Bold" FontStyle="Italic" FontSize="20" Click="Btn_login_Click"/>
+
+    </Grid>
+</Window>

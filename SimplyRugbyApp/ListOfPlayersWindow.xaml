@@ -1,0 +1,52 @@
+﻿<Window x:Class="SimplyRugbyApp.ListOfPlayersWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SimplyRugbyApp"
+        mc:Ignorable="d"
+        Title="Simple Rugby - Player list" Height="570" Width="520" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    
+<!--#region UserControl Club instance for Squads and Players-->
+    <UserControl>
+        <UserControl.Resources>
+            <local:ClubDetails x:Key="theData"/> <!--Create instance of ClubDetails-->
+            <!--Creating second level of list (sublist) in TreeView controls-->
+            <DataTemplate x:Key="level2">
+                <TextBlock> <!--Creating TextBlock that contains Players-->
+                    <TextBlock.Text>
+                        <MultiBinding StringFormat="{}{0} - {1} {2}">
+                            <Binding Path="SRUNumber" />
+                            <Binding Path="FirstName" />
+                            <Binding Path="LastName" />
+                        </MultiBinding>
+                    </TextBlock.Text>
+                </TextBlock>
+            </DataTemplate>
+            <!--Creating first level of list (main list) in TreeView-->
+            <HierarchicalDataTemplate x:Key="level1"
+                                  ItemsSource="{Binding Players}"
+                                  ItemTemplate="{StaticResource level2}">
+                <TextBlock Text="{Binding Path=Name}" /> <!--Create TextBlock that contains Squads-->
+            </HierarchicalDataTemplate>
+        </UserControl.Resources>
+<!--#endregion-->
+        
+        <Grid x:Name="Gr_elements">
+            <Grid.Background>
+                <ImageBrush ImageSource="img/logo.png"/>
+            </Grid.Background>
+            <TreeView x:Name="Tv_listOfPlayers" Margin="30,30,240,30" 
+                      ItemTemplate="{StaticResource level1}"
+                      ItemsSource="{StaticResource theData}" />
+
+            <Button x:Name="Btn_ViewPlayerDetails" Content="View player details" HorizontalAlignment="Left" Height="45" Margin="300,30,0,0" VerticalAlignment="Top" Width="180" Click="Btn_ViewPlayerDetails_Click"/>
+            <Button x:Name="Btn_AddPlayer" Content="Add new player" HorizontalAlignment="Left" Height="45" Margin="300,90,0,0" VerticalAlignment="Top" Width="180" Click="Btn_AddPlayer_Click"/>
+            <Button x:Name="Btn_ListOfEmails" Content="List of e-mails" HorizontalAlignment="Left" Height="45" Margin="300,150,0,0" VerticalAlignment="Top" Width="180" Click="Btn_ListOfEmails_Click"/>
+            <TextBox x:Name="Tb_SruSearch" HorizontalAlignment="Left" Margin="300,360,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="180" Height="25" AutomationProperties.HelpText="SRU number" FontSize="20"/>
+            <Button x:Name="Btn_Search" Content="Search" HorizontalAlignment="Left" Height="45" Margin="300,400,0,0" VerticalAlignment="Top" Width="180" Click="Btn_Search_Click"/>
+            <Button x:Name="Btn_Exit" Content="Exit" HorizontalAlignment="Left" Height="45" Margin="300,465,0,0" VerticalAlignment="Top" Width="180" Click="Btn_Exit_Click"/>
+            <TextBlock x:Name="Tbl_FindPlayer" HorizontalAlignment="Left" Margin="300,330,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="180" Height="25" TextAlignment="Left" FontWeight="Bold" FontSize="14" Background="White"><Run Text="Find Player"/><Run Language="en-gb" Text=" (SRU number):"/></TextBlock>
+        </Grid>
+    </UserControl>
+</Window>
